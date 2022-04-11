@@ -4909,7 +4909,7 @@ __metadata:
     styled-components: ^5.3.5
     ts-jest: ^27.1.4
     ts-node: ^10.7.0
-    typescript: ~4.5.5
+    typescript: ~4.6.3
     webpack: ^5.72.0
     webpack-cli: ^4.9.2
     webpack-dev-server: ^4.8.1
@@ -4950,7 +4950,7 @@ __metadata:
     redux: ^4.1.2
     redux-devtools-themes: ^1.0.0
     rimraf: ^3.0.2
-    typescript: ~4.5.5
+    typescript: ~4.6.3
   peerDependencies:
     "@redux-devtools/core": ^3.7.0
     "@types/react": ^16.3.0 || ^17.0.0
@@ -5012,7 +5012,7 @@ __metadata:
     styled-components: ^5.3.5
     supertest: ^6.2.2
     ts-jest: ^27.1.4
-    typescript: ~4.5.5
+    typescript: ~4.6.3
     uuid: ^8.3.2
   bin:
     redux-devtools: bin/redux-devtools.js
@@ -5054,7 +5054,7 @@ __metadata:
     redux: ^4.1.2
     rimraf: ^3.0.2
     ts-jest: ^27.1.4
-    typescript: ~4.5.5
+    typescript: ~4.6.3
   peerDependencies:
     react: ^0.14.9 || ^15.3.0 || ^16.0.0 || ^17.0.0
     react-redux: ^4.0.0 || ^5.0.0 || ^6.0.0 || ^7.0.0
@@ -5090,7 +5090,7 @@ __metadata:
     react-dock: ^0.5.1
     redux: ^4.1.2
     rimraf: ^3.0.2
-    typescript: ~4.5.5
+    typescript: ~4.6.3
   peerDependencies:
     "@redux-devtools/core": ^3.7.0
     "@types/react": ^16.3.0 || ^17.0.0
@@ -5116,7 +5116,7 @@ __metadata:
     eslint-config-prettier: ^8.5.0
     redux: ^4.1.2
     rimraf: ^3.0.2
-    typescript: ~4.5.5
+    typescript: ~4.6.3
   peerDependencies:
     redux: ^3.1.0 || ^4.0.0
   languageName: unknown
@@ -5165,7 +5165,7 @@ __metadata:
     rimraf: ^3.0.2
     simple-diff: ^1.6.0
     ts-jest: ^27.1.4
-    typescript: ~4.5.5
+    typescript: ~4.6.3
   peerDependencies:
     "@redux-devtools/inspector-monitor": ^2.0.0
     "@types/react": ^16.3.0 || ^17.0.0
@@ -5220,7 +5220,7 @@ __metadata:
     rimraf: ^3.0.2
     source-map: ^0.5.7
     ts-jest: ^27.1.4
-    typescript: ~4.5.5
+    typescript: ~4.6.3
   peerDependencies:
     "@redux-devtools/inspector-monitor": ^2.0.0
     "@types/react": ^16.3.0 || ^17.0.0
@@ -5274,7 +5274,7 @@ __metadata:
     redux: ^4.1.2
     redux-devtools-themes: ^1.0.0
     rimraf: ^3.0.2
-    typescript: ~4.5.5
+    typescript: ~4.6.3
   peerDependencies:
     "@redux-devtools/core": ^3.7.0
     "@types/react": ^16.3.0 || ^17.0.0
@@ -5308,7 +5308,7 @@ __metadata:
     rimraf: ^3.0.2
     rxjs: ^7.5.5
     ts-jest: ^27.1.4
-    typescript: ~4.5.5
+    typescript: ~4.6.3
   peerDependencies:
     redux: ^3.4.0 || ^4.0.0
   languageName: unknown
@@ -5344,7 +5344,7 @@ __metadata:
     redux: ^4.1.2
     redux-devtools-themes: ^1.0.0
     rimraf: ^3.0.2
-    typescript: ~4.5.5
+    typescript: ~4.6.3
   peerDependencies:
     "@redux-devtools/core": ^3.7.0
     "@types/react": ^16.3.0 || ^17.0.0
@@ -5379,7 +5379,7 @@ __metadata:
     rimraf: ^3.0.2
     rn-host-detect: ^1.2.0
     socketcluster-client: ^14.3.2
-    typescript: ~4.5.5
+    typescript: ~4.6.3
   peerDependencies:
     redux: ^3.5.2 || ^4.0.0
   languageName: unknown
@@ -5423,7 +5423,7 @@ __metadata:
     redux: ^4.1.2
     redux-devtools-themes: ^1.0.0
     rimraf: ^3.0.2
-    typescript: ~4.5.5
+    typescript: ~4.6.3
   peerDependencies:
     "@redux-devtools/core": ^3.7.0
     "@reduxjs/toolkit": ^1.8.1
@@ -5458,7 +5458,7 @@ __metadata:
     jsan: ^3.1.14
     rimraf: ^3.0.2
     ts-jest: ^27.1.4
-    typescript: ~4.5.5
+    typescript: ~4.6.3
   peerDependencies:
     immutable: ^4.0.0
   languageName: unknown
@@ -5496,7 +5496,7 @@ __metadata:
     rollup: ^2.70.1
     rollup-plugin-typescript2: ^0.31.2
     tslib: ^2.3.1
-    typescript: ~4.5.5
+    typescript: ~4.6.3
   peerDependencies:
     "@redux-devtools/core": ^3.7.0
     "@types/react": ^16.3.0 || ^17.0.0
@@ -5565,7 +5565,7 @@ __metadata:
     stylelint-config-styled-components: ^0.1.1
     stylelint-processor-styled-components: ^1.10.0
     ts-jest: ^27.1.4
-    typescript: ~4.5.5
+    typescript: ~4.6.3
     webpack: ^5.72.0
   peerDependencies:
     "@types/react": ^16.3.0 || ^17.0.0
@@ -5603,7 +5603,7 @@ __metadata:
     nanoid: ^3.3.2
     redux: ^4.1.2
     rimraf: ^3.0.2
-    typescript: ~4.5.5
+    typescript: ~4.6.3
   peerDependencies:
     "@redux-devtools/core": ^3.7.0
     immutable: ^4.0.0
@@ -12105,7 +12105,7 @@ __metadata:
     redux: ^4.1.2
     redux-thunk: ^2.4.1
     ts-node: ^10.7.0
-    typescript: ~4.5.5
+    typescript: ~4.6.3
     webpack: ^5.72.0
     webpack-cli: ^4.9.2
     webpack-dev-server: ^4.8.1
@@ -12538,7 +12538,7 @@ __metadata:
     html-webpack-plugin: ^5.5.0
     map2tree: ^2.1.0
     ts-node: ^10.7.0
-    typescript: ~4.5.5
+    typescript: ~4.6.3
     webpack: ^5.72.0
     webpack-cli: ^4.9.2
     webpack-dev-server: ^4.8.1
@@ -12575,7 +12575,7 @@ __metadata:
     rollup-plugin-terser: ^7.0.2
     rollup-plugin-typescript2: ^0.31.2
     tslib: ^2.3.1
-    typescript: ~4.5.5
+    typescript: ~4.6.3
   languageName: unknown
   linkType: soft
 
@@ -12613,7 +12613,7 @@ __metadata:
     rollup-plugin-terser: ^7.0.2
     rollup-plugin-typescript2: ^0.31.2
     tslib: ^2.3.1
-    typescript: ~4.5.5
+    typescript: ~4.6.3
   peerDependencies:
     "@types/d3": ^3.5.47
     d3: ^3.5.17
@@ -16638,7 +16638,7 @@ __metadata:
     redux: ^4.1.2
     redux-logger: ^3.0.6
     ts-node: ^10.7.0
-    typescript: ~4.5.5
+    typescript: ~4.6.3
     webpack: ^5.72.0
     webpack-cli: ^4.9.2
     webpack-dev-server: ^4.8.1
@@ -19531,7 +19531,7 @@ __metadata:
     rollup-plugin-typescript2: ^0.31.2
     ts-jest: ^27.1.4
     tslib: ^2.3.1
-    typescript: ~4.5.5
+    typescript: ~4.6.3
   languageName: unknown
   linkType: soft
 
@@ -22747,7 +22747,7 @@ __metadata:
     lodash.curry: ^4.1.1
     rimraf: ^3.0.2
     ts-jest: ^27.1.4
-    typescript: ~4.5.5
+    typescript: ~4.6.3
   languageName: unknown
   linkType: soft
 
@@ -22865,7 +22865,7 @@ __metadata:
     react-is: ^17.0.2
     styled-components: ^5.3.5
     ts-node: ^10.7.0
-    typescript: ~4.5.5
+    typescript: ~4.6.3
     webpack: ^5.72.0
     webpack-cli: ^4.9.2
     webpack-dev-server: ^4.8.1
@@ -22904,7 +22904,7 @@ __metadata:
     react-test-renderer: ^17.0.2
     rimraf: ^3.0.2
     ts-jest: ^27.1.4
-    typescript: ~4.5.5
+    typescript: ~4.6.3
   peerDependencies:
     "@types/react": ^16.3.0 || ^17.0.0
     react: ^16.3.0 || ^17.0.0
@@ -23063,7 +23063,7 @@ __metadata:
     react-dom: ^17.0.2
     react-json-tree: ^0.16.1
     ts-node: ^10.7.0
-    typescript: ~4.5.5
+    typescript: ~4.6.3
     webpack: ^5.72.0
     webpack-cli: ^4.9.2
     webpack-dev-server: ^4.8.1
@@ -23107,7 +23107,7 @@ __metadata:
     rollup-plugin-typescript2: ^0.31.2
     ts-jest: ^27.1.4
     tslib: ^2.3.1
-    typescript: ~4.5.5
+    typescript: ~4.6.3
   peerDependencies:
     "@types/react": ^16.3.0 || ^17.0.0
     react: ^16.3.0 || ^17.0.0
@@ -23955,7 +23955,7 @@ __metadata:
     style-loader: ^3.3.1
     styled-components: ^5.3.5
     ts-jest: ^27.1.4
-    typescript: ~4.5.5
+    typescript: ~4.6.3
     webpack: ^5.72.0
     webpack-cli: ^4.9.2
   languageName: unknown
@@ -24342,7 +24342,7 @@ __metadata:
     jest: ^27.5.1
     lerna: ^4.0.0
     prettier: 2.6.2
-    typescript: ~4.5.5
+    typescript: ~4.6.3
   languageName: unknown
   linkType: soft
 
@@ -24401,7 +24401,7 @@ __metadata:
     style-loader: ^3.3.1
     styled-components: ^5.3.5
     ts-node: ^10.7.0
-    typescript: ~4.5.5
+    typescript: ~4.6.3
     webpack: ^5.72.0
     webpack-cli: ^4.9.2
     webpack-dev-server: ^4.8.1
@@ -25135,7 +25135,7 @@ __metadata:
     styled-components: ^5.3.5
     todomvc-app-css: ^2.4.2
     ts-node: ^10.7.0
-    typescript: ~4.5.5
+    typescript: ~4.6.3
     webpack: ^5.72.0
     webpack-cli: ^4.9.2
     webpack-dev-server: ^4.8.1
@@ -26519,7 +26519,7 @@ __metadata:
     style-loader: ^3.3.1
     styled-components: ^5.3.5
     ts-node: ^10.7.0
-    typescript: ~4.5.5
+    typescript: ~4.6.3
     webpack: ^5.72.0
     webpack-cli: ^4.9.2
     webpack-dev-server: ^4.8.1
@@ -26773,7 +26773,7 @@ __metadata:
     style-loader: ^3.3.1
     todomvc-app-css: ^2.4.2
     ts-node: ^10.7.0
-    typescript: ~4.5.5
+    typescript: ~4.6.3
     webpack: ^5.72.0
     webpack-cli: ^4.9.2
     webpack-dev-server: ^4.8.1
@@ -27151,23 +27151,23 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@npm:~4.5.5":
-  version: 4.5.5
-  resolution: "typescript@npm:4.5.5"
+"typescript@npm:~4.6.3":
+  version: 4.6.3
+  resolution: "typescript@npm:4.6.3"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: 506f4c919dc8aeaafa92068c997f1d213b9df4d9756d0fae1a1e7ab66b585ab3498050e236113a1c9e57ee08c21ec6814ca7a7f61378c058d79af50a4b1f5a5e
+  checksum: 255bb26c8cb846ca689dd1c3a56587af4f69055907aa2c154796ea28ee0dea871535b1c78f85a6212c77f2657843a269c3a742d09d81495b97b914bf7920415b
   languageName: node
   linkType: hard
 
-"typescript@patch:typescript@~4.5.5#~builtin<compat/typescript>":
-  version: 4.5.5
-  resolution: "typescript@patch:typescript@npm%3A4.5.5#~builtin<compat/typescript>::version=4.5.5&hash=493e53"
+"typescript@patch:typescript@~4.6.3#~builtin<compat/typescript>":
+  version: 4.6.3
+  resolution: "typescript@patch:typescript@npm%3A4.6.3#~builtin<compat/typescript>::version=4.6.3&hash=493e53"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: c05c318d79c690f101d7ffb34cd6c7d6bbd884d3af9cefe7749ad0cd6be43c7082f098280982ca945dcba23fde34a08fed9602bb26540936baf8c0520727d3ba
+  checksum: fe6bdc1afb2f145ddb7b0a3a31f96352209f6a5704d97f038414ea22ff9d8dd42f32cfb6652e30458d7d958d2d4e85de2df11c574899c6f750a6b3c0e90a3a76
   languageName: node
   linkType: hard
 

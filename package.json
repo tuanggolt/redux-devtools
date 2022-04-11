@@ -14,7 +14,7 @@
     "jest": "^27.5.1",
     "lerna": "^4.0.0",
     "prettier": "2.6.2",
-    "typescript": "~4.5.5"
+    "typescript": "~4.6.3"
   },
   "scripts": {
     "format": "prettier --write .",
