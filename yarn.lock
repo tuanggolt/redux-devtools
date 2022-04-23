@@ -4878,7 +4878,7 @@ __metadata:
     "@types/lodash": ^4.14.181
     "@types/node": ^16.11.26
     "@types/prop-types": ^15.7.5
-    "@types/react": ^17.0.44
+    "@types/react": ^18.0.6
     "@types/react-dom": ^17.0.15
     "@types/react-redux": ^7.1.23
     "@types/socketcluster-client": ^13.0.5
@@ -4925,7 +4925,7 @@ __metadata:
     webpack-cli: ^4.9.2
     webpack-dev-server: ^4.8.1
   peerDependencies:
-    "@types/react": ^16.3.0 || ^17.0.0
+    "@types/react": ^16.3.0 || ^17.0.0 || ^18.0.0
     "@types/styled-components": ^5.1.25
     react: ^16.3.0 || ^17.0.0
     styled-components: ^5.3.5
@@ -4946,7 +4946,7 @@ __metadata:
     "@babel/runtime": ^7.17.9
     "@redux-devtools/core": ^3.12.0
     "@types/prop-types": ^15.7.5
-    "@types/react": ^17.0.44
+    "@types/react": ^18.0.6
     "@types/redux-devtools-themes": ^1.0.0
     "@typescript-eslint/eslint-plugin": ^5.18.0
     "@typescript-eslint/parser": ^5.18.0
@@ -4964,7 +4964,7 @@ __metadata:
     typescript: ~4.5.5
   peerDependencies:
     "@redux-devtools/core": ^3.7.0
-    "@types/react": ^16.3.0 || ^17.0.0
+    "@types/react": ^16.3.0 || ^17.0.0 || ^18.0.0
     react: ^16.3.0 || ^17.0.0
     redux: ^3.4.0 || ^4.0.0
   languageName: unknown
@@ -4983,7 +4983,7 @@ __metadata:
     "@types/lodash": ^4.14.181
     "@types/minimist": ^1.2.2
     "@types/morgan": ^1.9.3
-    "@types/react": ^17.0.44
+    "@types/react": ^18.0.6
     "@types/semver": ^7.3.9
     "@types/socketcluster": ^14.0.4
     "@types/socketcluster-client": ^13.0.5
@@ -5047,7 +5047,7 @@ __metadata:
     "@types/lodash": ^4.14.181
     "@types/node": ^16.11.26
     "@types/prop-types": ^15.7.5
-    "@types/react": ^17.0.44
+    "@types/react": ^18.0.6
     "@types/react-redux": ^7.1.23
     "@typescript-eslint/eslint-plugin": ^5.18.0
     "@typescript-eslint/parser": ^5.18.0
@@ -5088,7 +5088,7 @@ __metadata:
     "@redux-devtools/core": ^3.12.0
     "@types/parse-key": ^0.2.0
     "@types/prop-types": ^15.7.5
-    "@types/react": ^17.0.44
+    "@types/react": ^18.0.6
     "@typescript-eslint/eslint-plugin": ^5.18.0
     "@typescript-eslint/parser": ^5.18.0
     eslint: ^8.13.0
@@ -5104,7 +5104,7 @@ __metadata:
     typescript: ~4.5.5
   peerDependencies:
     "@redux-devtools/core": ^3.7.0
-    "@types/react": ^16.3.0 || ^17.0.0
+    "@types/react": ^16.3.0 || ^17.0.0 || ^18.0.0
     react: ^16.3.0 || ^17.0.0
     redux: ^3.4.0 || ^4.0.0
   languageName: unknown
@@ -5154,7 +5154,7 @@ __metadata:
     "@types/jsan": ^3.1.2
     "@types/object-path": ^0.11.1
     "@types/prop-types": ^15.7.5
-    "@types/react": ^17.0.44
+    "@types/react": ^18.0.6
     "@types/simple-diff": ^1.6.1
     "@typescript-eslint/eslint-plugin": ^5.18.0
     "@typescript-eslint/parser": ^5.18.0
@@ -5179,7 +5179,7 @@ __metadata:
     typescript: ~4.5.5
   peerDependencies:
     "@redux-devtools/inspector-monitor": ^2.0.0
-    "@types/react": ^16.3.0 || ^17.0.0
+    "@types/react": ^16.3.0 || ^17.0.0 || ^18.0.0
     "@types/styled-components": ^5.1.25
     react: ^16.3.0 || ^17.0.0
     redux: ^3.4.0 || ^4.0.0
@@ -5209,7 +5209,7 @@ __metadata:
     "@types/jest": ^27.4.1
     "@types/node": ^16.11.26
     "@types/path-browserify": ^1.0.0
-    "@types/react": ^17.0.44
+    "@types/react": ^18.0.6
     "@types/redux-devtools-themes": ^1.0.0
     "@types/source-map": 0.5.2
     "@typescript-eslint/eslint-plugin": ^5.18.0
@@ -5234,7 +5234,7 @@ __metadata:
     typescript: ~4.5.5
   peerDependencies:
     "@redux-devtools/inspector-monitor": ^2.0.0
-    "@types/react": ^16.3.0 || ^17.0.0
+    "@types/react": ^16.3.0 || ^17.0.0 || ^18.0.0
     react: ^16.3.0 || ^17.0.0
     redux: ^3.4.0 || ^4.0.0
   languageName: unknown
@@ -5260,7 +5260,7 @@ __metadata:
     "@types/lodash": ^4.14.181
     "@types/lodash.debounce": ^4.0.6
     "@types/prop-types": ^15.7.5
-    "@types/react": ^17.0.44
+    "@types/react": ^18.0.6
     "@types/react-dragula": ^1.1.0
     "@types/redux-devtools-themes": ^1.0.0
     "@typescript-eslint/eslint-plugin": ^5.18.0
@@ -5288,7 +5288,7 @@ __metadata:
     typescript: ~4.5.5
   peerDependencies:
     "@redux-devtools/core": ^3.7.0
-    "@types/react": ^16.3.0 || ^17.0.0
+    "@types/react": ^16.3.0 || ^17.0.0 || ^18.0.0
     react: ^16.3.0 || ^17.0.0
     redux: ^3.4.0 || ^4.0.0
   languageName: unknown
@@ -5340,7 +5340,7 @@ __metadata:
     "@redux-devtools/core": ^3.12.0
     "@types/lodash.debounce": ^4.0.6
     "@types/prop-types": ^15.7.5
-    "@types/react": ^17.0.44
+    "@types/react": ^18.0.6
     "@types/redux-devtools-themes": ^1.0.0
     "@typescript-eslint/eslint-plugin": ^5.18.0
     "@typescript-eslint/parser": ^5.18.0
@@ -5358,7 +5358,7 @@ __metadata:
     typescript: ~4.5.5
   peerDependencies:
     "@redux-devtools/core": ^3.7.0
-    "@types/react": ^16.3.0 || ^17.0.0
+    "@types/react": ^16.3.0 || ^17.0.0 || ^18.0.0
     react: ^16.3.0 || ^17.0.0
     redux: ^3.4.0 || ^4.0.0
   languageName: unknown
@@ -5414,7 +5414,7 @@ __metadata:
     "@types/hex-rgba": ^1.0.1
     "@types/lodash.debounce": ^4.0.6
     "@types/prop-types": ^15.7.5
-    "@types/react": ^17.0.44
+    "@types/react": ^18.0.6
     "@types/redux-devtools-themes": ^1.0.0
     "@typescript-eslint/eslint-plugin": ^5.18.0
     "@typescript-eslint/parser": ^5.18.0
@@ -5438,7 +5438,7 @@ __metadata:
   peerDependencies:
     "@redux-devtools/core": ^3.7.0
     "@reduxjs/toolkit": ^1.8.1
-    "@types/react": ^16.3.0 || ^17.0.0
+    "@types/react": ^16.3.0 || ^17.0.0 || ^18.0.0
     "@types/styled-components": ^5.1.25
     react: ^16.3.0 || ^17.0.0
     redux: ^3.4.0 || ^4.0.0
@@ -5491,7 +5491,7 @@ __metadata:
     "@redux-devtools/ui": ^1.2.1
     "@rollup/plugin-babel": ^5.3.1
     "@types/prop-types": ^15.7.5
-    "@types/react": ^17.0.44
+    "@types/react": ^18.0.6
     "@types/redux-devtools-themes": ^1.0.0
     "@typescript-eslint/eslint-plugin": ^5.18.0
     "@typescript-eslint/parser": ^5.18.0
@@ -5510,7 +5510,7 @@ __metadata:
     typescript: ~4.5.5
   peerDependencies:
     "@redux-devtools/core": ^3.7.0
-    "@types/react": ^16.3.0 || ^17.0.0
+    "@types/react": ^16.3.0 || ^17.0.0 || ^18.0.0
     "@types/styled-components": ^5.1.25
     react: ^16.3.0 || ^17.0.0
     redux: ^3.4.0 || ^4.0.0
@@ -5542,7 +5542,7 @@ __metadata:
     "@types/jest": ^27.4.1
     "@types/json-schema": ^7.0.11
     "@types/prop-types": ^15.7.5
-    "@types/react": ^17.0.44
+    "@types/react": ^18.0.6
     "@types/redux-devtools-themes": ^1.0.0
     "@types/simple-element-resize-detector": ^1.3.0
     "@types/styled-components": ^5.1.25
@@ -5579,7 +5579,7 @@ __metadata:
     typescript: ~4.5.5
     webpack: ^5.72.0
   peerDependencies:
-    "@types/react": ^16.3.0 || ^17.0.0
+    "@types/react": ^16.3.0 || ^17.0.0 || ^18.0.0
     "@types/styled-components": ^5.1.25
     react: ^16.3.0 || ^17.0.0
     styled-components: ^5.3.5
@@ -7927,7 +7927,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react@npm:*, @types/react@npm:>=16.14.8, @types/react@npm:>=16.9.11, @types/react@npm:^17, @types/react@npm:^17.0.44":
+"@types/react@npm:*, @types/react@npm:>=16.14.8, @types/react@npm:>=16.9.11, @types/react@npm:^18.0.6":
+  version: 18.0.6
+  resolution: "@types/react@npm:18.0.6"
+  dependencies:
+    "@types/prop-types": "*"
+    "@types/scheduler": "*"
+    csstype: ^3.0.2
+  checksum: 368b40176f0dab30a611c3263bf1d9878cebede9ce8015bc5661a396787dbe41f0b667b8d6d448dea7bc8c0557bf3cb329ab2b16ad2dacb18eaa764358bd16d4
+  languageName: node
+  linkType: hard
+
+"@types/react@npm:^17":
   version: 17.0.44
   resolution: "@types/react@npm:17.0.44"
   dependencies:
@@ -12095,7 +12106,7 @@ __metadata:
     "@redux-devtools/log-monitor": ^3.1.1
     "@types/node": ^16.11.26
     "@types/prop-types": ^15.7.5
-    "@types/react": ^17.0.44
+    "@types/react": ^18.0.6
     "@types/react-dom": ^17.0.15
     "@types/react-redux": ^7.1.23
     "@types/webpack-env": ^1.16.3
@@ -16620,7 +16631,7 @@ __metadata:
     "@types/history": ^4.7.11
     "@types/lodash.shuffle": ^4.2.6
     "@types/node": ^16.11.26
-    "@types/react": ^17.0.44
+    "@types/react": ^18.0.6
     "@types/react-dom": ^17.0.15
     "@types/react-redux": ^7.1.23
     "@types/react-router": ^5.1.18
@@ -22846,7 +22857,7 @@ __metadata:
     "@babel/preset-react": ^7.16.7
     "@babel/preset-typescript": ^7.16.7
     "@types/node": ^16.11.26
-    "@types/react": ^17.0.44
+    "@types/react": ^18.0.6
     "@types/react-dom": ^17.0.15
     "@types/styled-components": ^5.1.25
     "@typescript-eslint/eslint-plugin": ^5.18.0
@@ -22890,7 +22901,7 @@ __metadata:
     "@types/lodash": ^4.14.181
     "@types/lodash.debounce": ^4.0.6
     "@types/prop-types": ^15.7.5
-    "@types/react": ^17.0.44
+    "@types/react": ^18.0.6
     "@types/react-test-renderer": ^17.0.1
     "@typescript-eslint/eslint-plugin": ^5.18.0
     "@typescript-eslint/parser": ^5.18.0
@@ -22908,7 +22919,7 @@ __metadata:
     ts-jest: ^27.1.4
     typescript: ~4.5.5
   peerDependencies:
-    "@types/react": ^16.3.0 || ^17.0.0
+    "@types/react": ^16.3.0 || ^17.0.0 || ^18.0.0
     react: ^16.3.0 || ^17.0.0
   languageName: unknown
   linkType: soft
@@ -23054,7 +23065,7 @@ __metadata:
     "@babel/preset-react": ^7.16.7
     "@babel/preset-typescript": ^7.16.7
     "@types/node": ^16.11.26
-    "@types/react": ^17.0.44
+    "@types/react": ^18.0.6
     "@types/react-dom": ^17.0.15
     "@typescript-eslint/eslint-plugin": ^5.18.0
     "@typescript-eslint/parser": ^5.18.0
@@ -23096,7 +23107,7 @@ __metadata:
     "@rollup/plugin-node-resolve": ^13.1.3
     "@types/jest": ^27.4.1
     "@types/prop-types": ^15.7.5
-    "@types/react": ^17.0.44
+    "@types/react": ^18.0.6
     "@types/react-test-renderer": ^17.0.1
     "@typescript-eslint/eslint-plugin": ^5.18.0
     "@typescript-eslint/parser": ^5.18.0
@@ -23118,7 +23129,7 @@ __metadata:
     tslib: ^2.3.1
     typescript: ~4.5.5
   peerDependencies:
-    "@types/react": ^16.3.0 || ^17.0.0
+    "@types/react": ^16.3.0 || ^17.0.0 || ^18.0.0
     react: ^16.3.0 || ^17.0.0
   languageName: unknown
   linkType: soft
@@ -23921,7 +23932,7 @@ __metadata:
     "@types/chrome": ^0.0.181
     "@types/jsan": ^3.1.2
     "@types/lodash": ^4.14.181
-    "@types/react": ^17.0.44
+    "@types/react": ^18.0.6
     "@types/react-dom": ^17.0.15
     "@types/react-redux": ^7.1.23
     "@types/styled-components": ^5.1.25
@@ -24382,7 +24393,7 @@ __metadata:
     "@reduxjs/toolkit": ^1.8.1
     "@types/copy-webpack-plugin": ^8.0.1
     "@types/node": ^16.11.26
-    "@types/react": ^17.0.44
+    "@types/react": ^18.0.6
     "@types/react-dom": ^17.0.15
     "@types/react-redux": ^7.1.23
     "@types/react-router-dom": ^5.3.3
@@ -25117,7 +25128,7 @@ __metadata:
     "@types/classnames": ^2.3.1
     "@types/node": ^16.11.26
     "@types/prop-types": ^15.7.5
-    "@types/react": ^17.0.44
+    "@types/react": ^18.0.6
     "@types/react-dom": ^17.0.15
     "@types/react-redux": ^7.1.23
     "@types/styled-components": ^5.1.25
@@ -26505,7 +26516,7 @@ __metadata:
     "@types/history": ^4.7.11
     "@types/lodash.shuffle": ^4.2.6
     "@types/node": ^16.11.26
-    "@types/react": ^17.0.44
+    "@types/react": ^18.0.6
     "@types/react-dom": ^17.0.15
     "@types/react-redux": ^7.1.23
     "@types/react-router": ^5.1.18
@@ -26767,7 +26778,7 @@ __metadata:
     "@types/classnames": ^2.3.1
     "@types/node": ^16.11.26
     "@types/prop-types": ^15.7.5
-    "@types/react": ^17.0.44
+    "@types/react": ^18.0.6
     "@types/react-dom": ^17.0.15
     "@types/react-redux": ^7.1.23
     "@types/webpack-env": ^1.16.3
